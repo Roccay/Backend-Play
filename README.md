@@ -77,3 +77,8 @@
 [【日语】各样功能的100款免费软件](https://freesoft-100.com/)  
 [中国校招污点公司记录](https://github.com/ShameCom/ShameCom)
 
+## 群主推荐
+做游戏一定要看的Youtuber频道：  
+[Brackeys](https://www.youtube.com/c/Brackeys)  
+[Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity)  
+[Game Maker's Toolkit](https://www.youtube.com/c/MarkBrownGMT)  
