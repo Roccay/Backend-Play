@@ -14,8 +14,9 @@
 <sub>关键字：0基础，入门，教程，python，免费，网课 </sub>  
   
 [【B站】入门级编程语言逻辑：哈佛CS50中文翻译](https://www.bilibili.com/video/BV1Rb411378V?spm_id_from=333.337.search-card.all.click&vd_source=c9a0433a81dc461ef29c7d080bbc03eb)  
+[【B站】C#入门到精通](https://www.bilibili.com/video/BV1FJ411W7e5?spm_id_from=333.999.0.0)  
 [次世代游戏场景建模教学](https://www.aboutcg.org/courseDetails/1357/introduce)  
-[【B站】C#入门到精通](https://www.bilibili.com/video/BV1FJ411W7e5?spm_id_from=333.999.0.0)
+[Unity官方教程 2D游戏制作全流程 Ruby's Advanture](https://learn.unity.com/project/ruby-s-adventure-2d-chu-xue-zhe)
 
 
 ## 游戏设计相关  
