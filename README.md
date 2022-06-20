@@ -58,9 +58,11 @@
 
 ## 活动咨询
 <sub>关键字：Game Jam， Ludum Dare，游戏制作，比赛</sub>  
-  
+   
+[Ludum Dare官方网站](https://ldjam.com/)  
 [itch全GameJam日程表](https://itch.io/jams)  
-[像素艺术节](https://pixelartpark.com/)
+[像素艺术节](https://pixelartpark.com/)  
+
 
 ## 知识参考
 <sub>关键字：术语， 参考，灵感，库</sub>  
