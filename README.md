@@ -27,7 +27,8 @@
 [【在线英文书籍】关卡设计之书](https://book.leveldesignbook.com/)  
 [【英文文章】关卡设计师Vicente的设计心得总集](https://trello.com/b/AM3ZOmAd/level-design-compendium)  
 [【牛奶关】当我们谈论动作游戏，我们在谈论什么](https://cowlevel.net/article/2007375)  
-[【英文文章】格斗游戏中的hitbox和hurtbox](https://strangewire.blogspot.com/2018/05/hitboxes-and-hurtboxes-in-unity.html?m=1)
+[【英文文章】格斗游戏中的hitbox和hurtbox](https://strangewire.blogspot.com/2018/05/hitboxes-and-hurtboxes-in-unity.html?m=1)  
+[【油管】令人称奇的hades对话系统](https://www.youtube.com/watch?v=bwdYL0KFA_U&t=645s)
 
 
 
