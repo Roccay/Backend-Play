@@ -39,6 +39,7 @@
 [像素3D建模软件picoCAD](https://johanpeitz.itch.io/picocad?continueFlag=152f96fdb93b73f9819d72d835aada9b)  
 [易制地图：在线制作地图](https://www.makeamap.cn/)  
 [城市/村庄/洞穴地图生成器](https://watabou.itch.io/)  
+[免费食物像素素材 可商用](https://ghostpixxells.itch.io/?continueFlag=1c5bad9124fc452fbc1cacc16257da32)  
 
 ## 音声资源
 <sub>关键字：音乐，音效，免费</sub> 
@@ -63,6 +64,10 @@
 [【Unity】Glitch特效Shader](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/camera-glitch-effect-shader-105220)  
 [【Unity】Floyd–Steinberg抖动（1bit风格）特效Shader](https://github.com/kgjenkins/dither-dream)  
 [【Unity】uGUI插件](https://github.com/jesenzhang/unity-ui-extensions)  
+[【RPG Maker】全版本插件杂烩（日文）](https://docs.google.com/spreadsheets/u/1/d/1BnTyJr3Z1WoW4FMKtvKaICl4SQ5ehL5RxTDSV81oVQc/htmlview#)  
+[【RPG Maker】Galv MV插件列表（日文）](https://fungamemake.com/mv-plugins-trans-japanese/galv-japanese)  
+[【RPG Maker】战斗数值与演出绑定等插件（日文）](https://nine-yusha.com/plugin-sbpicture/)  
+[【RPG Maker】对战界面修改等插件（日文）](https://newrpg.seesaa.net/)
 
 ## 活动咨询
 <sub>关键字：Game Jam， Ludum Dare，游戏制作，比赛</sub>  
