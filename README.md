@@ -39,7 +39,11 @@
 [像素3D建模软件picoCAD](https://johanpeitz.itch.io/picocad?continueFlag=152f96fdb93b73f9819d72d835aada9b)  
 [易制地图：在线制作地图](https://www.makeamap.cn/)  
 [城市/村庄/洞穴地图生成器](https://watabou.itch.io/)  
-[免费食物像素素材 可商用](https://ghostpixxells.itch.io/?continueFlag=1c5bad9124fc452fbc1cacc16257da32)  
+[免费食物像素素材 可商用](https://ghostpixxells.itch.io/?continueFlag=1c5bad9124fc452fbc1cacc16257da32) 
+[OpenGameArt 免费游戏素材网（2D/3D/音乐素材）](https://opengameart.org/)  
+[CraftPix 免费2D像素素材](https://craftpix.net/freebies/)  
+[Kenney 免费2D素材（UI/道具等）](https://www.kenney.nl/assets)  
+
 
 ## 音声资源
 <sub>关键字：音乐，音效，免费</sub> 
