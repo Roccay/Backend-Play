@@ -31,7 +31,7 @@
 [【英文文章】格斗游戏中的hitbox和hurtbox](https://strangewire.blogspot.com/2018/05/hitboxes-and-hurtboxes-in-unity.html?m=1)  
 [【油管】令人称奇的hades对话系统](https://www.youtube.com/watch?v=bwdYL0KFA_U&t=645s)  
 [【英文文章】《奥伯拉丁的回归》制作心得](https://forums.tigsource.com/index.php?action=profile%3Bu%3D3073%3Bsa%3DshowPosts)  
-
+[【英文文章】俯视角像素图像设计（内含设计图）](https://www.slynyrd.com/blog/2021/11/30/pixelblog-35-top-down-interiors)  
 
 ## 美术资源
 <sub>关键字：建模，像素，3D</sub> 
@@ -43,7 +43,7 @@
 [OpenGameArt 免费游戏素材网（2D/3D/音乐素材）](https://opengameart.org/)  
 [CraftPix 免费2D像素素材](https://craftpix.net/freebies/)  
 [Kenney 免费2D素材（UI/道具等）](https://www.kenney.nl/assets)  
-
+[谷歌：Material Symbols免费可商用UI](https://fonts.google.com/icons)  
 
 ## 音声资源
 <sub>关键字：音乐，音效，免费</sub> 
@@ -100,3 +100,4 @@
 [Brackeys](https://www.youtube.com/c/Brackeys)  
 [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity)  
 [Game Maker's Toolkit](https://www.youtube.com/c/MarkBrownGMT)  
+[游戏美术DOM2D的个人主页](http://dom2d.com/)  
