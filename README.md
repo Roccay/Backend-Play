@@ -32,6 +32,7 @@
 [【油管】令人称奇的hades对话系统](https://www.youtube.com/watch?v=bwdYL0KFA_U&t=645s)  
 [【英文文章】《奥伯拉丁的回归》制作心得](https://forums.tigsource.com/index.php?action=profile%3Bu%3D3073%3Bsa%3DshowPosts)  
 [【英文文章】俯视角像素图像设计（内含设计图）](https://www.slynyrd.com/blog/2021/11/30/pixelblog-35-top-down-interiors)  
+[【在线网站】Interface In Game：游戏交互设计图鉴](https://interfaceingame.com/games)  
 
 ## 美术资源
 <sub>关键字：建模，像素，3D</sub> 
@@ -44,6 +45,7 @@
 [CraftPix 免费2D像素素材](https://craftpix.net/freebies/)  
 [Kenney 免费2D素材（UI/道具等）](https://www.kenney.nl/assets)  
 [谷歌：Material Symbols免费可商用UI](https://fonts.google.com/icons)  
+[超便捷像素场景制作软件Pixel Basher（付费）](https://pixelbasher.dev/)  
 
 ## 音声资源
 <sub>关键字：音乐，音效，免费</sub> 
@@ -90,14 +92,20 @@
 [纪妖：收集中国古今妖怪](https://www.cbaigui.com/)  
 [神魔仙辞典](https://shimma.info/)
 [双语词汇 学术名词资讯网](https://terms.naer.edu.tw/download/)  
-[【英文在线】The Fighters Generation 格斗游戏全角色信息以及动画拆分](https://www.fightersgeneration.com/characters.html)
-
+[The Fighters Generation 格斗游戏全角色信息以及动画拆分](https://www.fightersgeneration.com/characters.html)  
+[落日间：游戏类译文以及科普文章](http://xpaidia.com/)  
+[刻莱诺图书馆
+个人ACGN考据/杂学/文学史/民俗学/神秘学](https://witchstaynight.wixsite.com/kelaino?continueFlag=7ad4ab607ceb75934d3d85d336143692)  
+  
 ## 生活相关  
-[【日语】各样功能的100款免费软件](https://freesoft-100.com/)  
+[【日文】各样功能的100款免费软件](https://freesoft-100.com/)  
+[【中文】独立游戏共建知识百科](https://docs.qq.com/sheet/DWWtxbVFWZ25OZWJU?tab=BB08J2)  
+[【中文】独立游戏人在线组队](https://docs.qq.com/sheet/DQkhzZEtuWmdzYlhT?tab=BB08J2)  
 
 ## 群主推荐
 做游戏一定要看的Youtuber频道：  
 [Brackeys](https://www.youtube.com/c/Brackeys)  
 [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity)  
 [Game Maker's Toolkit](https://www.youtube.com/c/MarkBrownGMT)  
+  
 [游戏美术DOM2D的个人主页](http://dom2d.com/)  
