@@ -53,7 +53,8 @@
 [GameSounds](https://gamesounds.xyz/?dir=99Sounds)  
 [Zapsplat](https://www.zapsplat.com/)  
 [FreeSound](https://freesound.org/)  
-[魔王魂](https://maou.audio/)
+[魔王魂](https://maou.audio/)  
+[Springin Sound Stock](https://www.springin.org/sound-stock/)  
 
 ## 免费字体
 <sub>关键字：可商用，字体，免费</sub> 
