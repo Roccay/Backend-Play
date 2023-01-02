@@ -15,7 +15,7 @@
 <sub>关键字：0基础，入门，教程，python，免费，网课 </sub>  
   
 [【B站】入门级编程语言逻辑：哈佛CS50（中字）](https://www.bilibili.com/video/BV1Rb411378V?spm_id_from=333.337.search-card.all.click&vd_source=c9a0433a81dc461ef29c7d080bbc03eb)  
-[【B站】C#入门到精通](https://www.bilibili.com/video/BV1FJ411W7e5?spm_id_from=333.999.0.0)  
+[【B站】C#零基础入门教程 Visual Studio 2022](https://www.bilibili.com/video/BV1NA4y1R7vL?p=1&vd_source=c9a0433a81dc461ef29c7d080bbc03eb)  
 [次世代游戏场景建模教学](https://www.aboutcg.org/courseDetails/1357/introduce)  
 [Unity官方教程 2D游戏制作全流程 Ruby's Advanture](https://learn.unity.com/project/ruby-s-adventure-2d-chu-xue-zhe)  
 [【官方】Berkeley College伯克利学院python入门级课程（英）](https://inst.eecs.berkeley.edu/~cs61a/fa20/)  
