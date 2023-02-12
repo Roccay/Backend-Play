@@ -34,6 +34,7 @@
 [【英文文章】《奥伯拉丁的回归》制作心得](https://forums.tigsource.com/index.php?action=profile%3Bu%3D3073%3Bsa%3DshowPosts)  
 [【英文文章】俯视角像素图像设计（内含设计图）](https://www.slynyrd.com/blog/2021/11/30/pixelblog-35-top-down-interiors)  
 [【在线网站】Interface In Game：游戏交互设计图鉴](https://interfaceingame.com/games)  
+[【github】celeste/蔚蓝角色行为官方源码](https://github.com/NoelFB/Celeste/blob/master/Source/Player/Player.cs)  
 
 ## 美术资源
 <sub>关键字：建模，像素，3D</sub> 
@@ -72,6 +73,8 @@
 [【Unity】Glitch特效Shader](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/camera-glitch-effect-shader-105220)  
 [【Unity】Floyd–Steinberg抖动（1bit风格）特效Shader](https://github.com/kgjenkins/dither-dream)  
 [【Unity】uGUI插件](https://github.com/jesenzhang/unity-ui-extensions)  
+[【Unity】Fungus对话插件](https://github.com/snozbot/fungus)  
+[【Unity】Inspector便捷收纳](https://github.com/dbrizov/NaughtyAttributes)  
 [【RPG Maker】全版本插件杂烩（日文）](https://docs.google.com/spreadsheets/u/1/d/1BnTyJr3Z1WoW4FMKtvKaICl4SQ5ehL5RxTDSV81oVQc/htmlview#)  
 [【RPG Maker】Galv MV插件列表（日文）](https://fungamemake.com/mv-plugins-trans-japanese/galv-japanese)  
 [【RPG Maker】战斗数值与演出绑定等插件（日文）](https://nine-yusha.com/plugin-sbpicture/)  
@@ -103,6 +106,7 @@
 [【日文】各样功能的100款免费软件](https://freesoft-100.com/)  
 [【中文】独立游戏共建知识百科](https://docs.qq.com/sheet/DWWtxbVFWZ25OZWJU?tab=BB08J2)  
 [【中文】独立游戏人在线组队](https://docs.qq.com/sheet/DQkhzZEtuWmdzYlhT?tab=BB08J2)  
+[【discord】独立游戏评测社群](https://grux.org/grux-sig-discord/)  
 
 ## 群主推荐
 做游戏一定要看的Youtuber频道：  
