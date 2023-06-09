@@ -78,7 +78,14 @@
 [【RPG Maker】全版本插件杂烩（日文）](https://docs.google.com/spreadsheets/u/1/d/1BnTyJr3Z1WoW4FMKtvKaICl4SQ5ehL5RxTDSV81oVQc/htmlview#)  
 [【RPG Maker】Galv MV插件列表（日文）](https://fungamemake.com/mv-plugins-trans-japanese/galv-japanese)  
 [【RPG Maker】战斗数值与演出绑定等插件（日文）](https://nine-yusha.com/plugin-sbpicture/)  
-[【RPG Maker】对战界面修改等插件（日文）](https://newrpg.seesaa.net/)
+[【RPG Maker】对战界面修改等插件（日文）](https://newrpg.seesaa.net/)  
+[【Blender】免费像素风渲染插件](https://3dnchu.com/archives/pixel-art-rendering-v1-0/)  
+
+## 营销技巧
+<sub>关键字：Steam， 游戏宣传，营销，宣发</sub>  
+[【在线文章】如何宣传你的steam游戏（英文）](https://howtomarketagame.com/2023/06/06/launching-a-steam-coming-soon-page-the-right-way/)  
+[【discord】游戏宣发讨论社群](https://discord.com/invite/NUuMbdBZW4)  
+[【微博】游戏宣发经验/steam算法解析 by少狗椿](https://weibo.com/5942266029/MxGKB6u4I)  
 
 ## 活动咨询
 <sub>关键字：Game Jam， Ludum Dare，游戏制作，比赛</sub>  
