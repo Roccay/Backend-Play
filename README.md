@@ -48,6 +48,8 @@
 [Kenney 免费2D素材（UI/道具等）](https://www.kenney.nl/assets)  
 [谷歌：Material Symbols免费可商用UI](https://fonts.google.com/icons)  
 [超便捷像素场景制作软件Pixel Basher（付费）](https://pixelbasher.dev/)  
+[覆盖面极广的免费商用纹理网站TextureLabs](https://texturelabs.org/)  
+[日本经典免费商用素材贴画irasutoya](https://www.irasutoya.com/)  
 
 ## 音声资源
 <sub>关键字：音乐，音效，免费</sub> 
@@ -82,10 +84,12 @@
 [【Blender】免费像素风渲染插件](https://3dnchu.com/archives/pixel-art-rendering-v1-0/)  
 
 ## 营销技巧
-<sub>关键字：Steam， 游戏宣传，营销，宣发</sub>  
+<sub>关键字：Steam，steamworks，游戏宣传，营销，宣发</sub>  
 [【在线文章】如何宣传你的steam游戏（英文）](https://howtomarketagame.com/2023/06/06/launching-a-steam-coming-soon-page-the-right-way/)  
 [【discord】游戏宣发讨论社群](https://discord.com/invite/NUuMbdBZW4)  
 [【微博】游戏宣发经验/steam算法解析 by少狗椿](https://weibo.com/5942266029/MxGKB6u4I)  
+[【bilibili文章】steam成就系统批量设置 踩坑笔记](https://www.bilibili.com/read/cv21509449/)  
+[【Steampeek】寻找相似类型的游戏](https://steampeek.hu/?appid=435120)  
 
 ## 活动咨询
 <sub>关键字：Game Jam， Ludum Dare，游戏制作，比赛</sub>  
@@ -120,5 +124,6 @@
 [Brackeys](https://www.youtube.com/c/Brackeys)  
 [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity)  
 [Game Maker's Toolkit](https://www.youtube.com/c/MarkBrownGMT)  
+[「地牢探险指南」——原版《Rogue》游戏规则翻译](https://nth233.top/posts/2022-03-04-rogue)  
   
 [游戏美术DOM2D的个人主页](http://dom2d.com/)  
