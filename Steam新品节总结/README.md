@@ -58,7 +58,7 @@
 接下来会单刀直入分享新品节的数据。  
   
 ## 新品节收益总览
-时间段：2.5-1.12  
+时间段：2.5-2.12  
 ### 愿望单变化  
  ![image](https://github.com/Roccay/Backend-Play/assets/28853235/ea1349cc-f9fd-47f1-95fc-9f309022562b)
 <details>
