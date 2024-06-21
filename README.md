@@ -59,6 +59,7 @@
 [FreeSound](https://freesound.org/)  
 [魔王魂](https://maou.audio/)  
 [Springin Sound Stock](https://www.springin.org/sound-stock/)  
+[honohono可爱音乐网](https://conte-de-fees.com/)  
 
 ## 免费字体
 <sub>关键字：可商用，字体，免费</sub> 
@@ -84,12 +85,13 @@
 [【Blender】免费像素风渲染插件](https://3dnchu.com/archives/pixel-art-rendering-v1-0/)  
 
 ## 营销技巧
-<sub>关键字：Steam，steamworks，游戏宣传，营销，宣发</sub>  
+<sub>关键字：Steam，steamworks，游戏宣传，营销，宣发，调查问卷</sub>  
 [【在线文章】如何宣传你的steam游戏（英文）](https://howtomarketagame.com/2023/06/06/launching-a-steam-coming-soon-page-the-right-way/)  
 [【discord】游戏宣发讨论社群](https://discord.com/invite/NUuMbdBZW4)  
 [【微博】游戏宣发经验/steam算法解析 by少狗椿](https://weibo.com/5942266029/MxGKB6u4I)  
 [【bilibili文章】steam成就系统批量设置 踩坑笔记](https://www.bilibili.com/read/cv21509449/)  
 [【Steampeek】寻找相似类型的游戏](https://steampeek.hu/?appid=435120)  
+[【在线文章（英）】欧美地区乙女游戏喜好统计](https://tailortales.wordpress.com/2018/12/03/an-in-depth-look-at-what-otome-players-want/)  
 
 ## 活动咨询
 <sub>关键字：Game Jam， Ludum Dare，游戏制作，比赛</sub>  
@@ -101,26 +103,34 @@
 
 ## 知识参考
 <sub>关键字：术语， 参考，灵感，库</sub>  
-  
+
+### 科学 | 学术 | 医学 等
 [知网学术百科](https://shuyu.cnki.net/#/)  
 [地图书人文地理知识库](https://www.ageeye.cn/)  
+[双语词汇 学术名词资讯网](https://terms.naer.edu.tw/download/)  
+[法医病理学PDF文档](https://m.douban.com/book/review/14883186/)  
+
+### 民俗 | 神秘学 | 宗教 等
 [灵虚异幻：中华神话文学](https://www.lingxyh.com/)  
 [纪妖：收集中国古今妖怪](https://www.cbaigui.com/)  
-[神魔仙辞典](https://shimma.info/)
-[双语词汇 学术名词资讯网](https://terms.naer.edu.tw/download/)  
-[The Fighters Generation 格斗游戏全角色信息以及动画拆分](https://www.fightersgeneration.com/characters.html)  
-[落日间：游戏类译文以及科普文章](http://xpaidia.com/)  
+[神魔仙辞典](https://shimma.info/)  
 [刻莱诺图书馆
 个人ACGN考据/杂学/文学史/民俗学/神秘学](https://witchstaynight.wixsite.com/kelaino?continueFlag=7ad4ab607ceb75934d3d85d336143692)  
 [魔法与巫术 神秘学网站](http://www.imslr.com/forum-201-1.html)  
+
+### 设计 | 美术 | 文学 等
+[The Fighters Generation 格斗游戏全角色信息以及动画拆分](https://www.fightersgeneration.com/characters.html)  
+[落日间：游戏类译文以及科普文章](http://xpaidia.com/)  
 [宝可梦全版本像素图素材](https://pokemondb.net/sprites)  
 
   
 ## 生活相关  
 [【日文】各样功能的100款免费软件](https://freesoft-100.com/)  
 [【中文】独立游戏共建知识百科](https://docs.qq.com/sheet/DWWtxbVFWZ25OZWJU?tab=BB08J2)  
-[【中文】独立游戏人在线组队](https://docs.qq.com/sheet/DQkhzZEtuWmdzYlhT?tab=BB08J2)  
+[【中文】独立游戏人在线组队](https://docs.google.com/spreadsheets/d/1yA3q7QEbpAcl5tL5dBmQ6n9FM2SFvJR0-GexbEze3A8/htmlview?pli=1#)  
 [【discord】独立游戏评测社群](https://grux.org/grux-sig-discord/)  
+[【论坛】贝克街推理学院](https://www.tuilixy.net/)  
+[【英文】民间整理全球发行商数据库](https://docs.google.com/spreadsheets/d/15AN1I1mB67AJkpMuUUfM5ZUALkQmrvrznnPYO5QbqD0/edit#gid=1783327951)  
 
 ## 群主推荐
 做游戏一定要看的Youtuber频道：  
