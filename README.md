@@ -112,6 +112,9 @@
 [落日间：游戏类译文以及科普文章](http://xpaidia.com/)  
 [刻莱诺图书馆
 个人ACGN考据/杂学/文学史/民俗学/神秘学](https://witchstaynight.wixsite.com/kelaino?continueFlag=7ad4ab607ceb75934d3d85d336143692)  
+[魔法与巫术 神秘学网站](http://www.imslr.com/forum-201-1.html)  
+[宝可梦全版本像素图素材](https://pokemondb.net/sprites)  
+
   
 ## 生活相关  
 [【日文】各样功能的100款免费软件](https://freesoft-100.com/)  
