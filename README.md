@@ -50,6 +50,7 @@
 [超便捷像素场景制作软件Pixel Basher（付费）](https://pixelbasher.dev/)  
 [覆盖面极广的免费商用纹理网站TextureLabs](https://texturelabs.org/)  
 [日本经典免费商用素材贴画irasutoya](https://www.irasutoya.com/)  
+[【itch】像素特效动画包（作者：BDragon1727）（付费免费皆有）](https://bdragon1727.itch.io/) 
 
 ## 音声资源
 <sub>关键字：音乐，音效，免费</sub> 
@@ -68,6 +69,7 @@
 [开源像素字体·方舟像素字体（中日韩）](https://takwolf.itch.io/ark-pixel-font)  
 [个人免费可商用字体BOGAM字体](https://www.behance.net/gallery/115313329/BOGAM-FREE-BOLD-SANS-SERIF-FONT)  
 [谷歌字体库Google Fonts默认可商用](https://fonts.google.com/?preview.text=Seduction%20%20SEDUCTION&preview.text_type=custom)  
+[像素字体合集（英）（请根据版权标注使用）](https://www.1001freefonts.com/bitmap-pixel-fonts.php)  
 
 ## 插件推荐
 [【Unity】视觉小说引擎插件](https://assetstore.unity.com/packages/tools/game-toolkits/visual-novel-engine-2d-cutscene-engine-54342)  
@@ -83,6 +85,7 @@
 [【RPG Maker】战斗数值与演出绑定等插件（日文）](https://nine-yusha.com/plugin-sbpicture/)  
 [【RPG Maker】对战界面修改等插件（日文）](https://newrpg.seesaa.net/)  
 [【Blender】免费像素风渲染插件](https://3dnchu.com/archives/pixel-art-rendering-v1-0/)  
+[【Windows】mp3音源音量统一软件](https://mp3gain.sourceforge.net/download.php)  
 
 ## 营销技巧
 <sub>关键字：Steam，steamworks，游戏宣传，营销，宣发，调查问卷</sub>  
@@ -109,6 +112,8 @@
 [地图书人文地理知识库](https://www.ageeye.cn/)  
 [双语词汇 学术名词资讯网](https://terms.naer.edu.tw/download/)  
 [法医病理学PDF文档](https://m.douban.com/book/review/14883186/)  
+[犯罪心理学（作者：罗大华）](https://www.ziwushuwu.com/xinlixueshuji/fanzui/)  
+
 
 ### 民俗 | 神秘学 | 宗教 等
 [灵虚异幻：中华神话文学](https://www.lingxyh.com/)  
@@ -122,7 +127,10 @@
 [The Fighters Generation 格斗游戏全角色信息以及动画拆分](https://www.fightersgeneration.com/characters.html)  
 [落日间：游戏类译文以及科普文章](http://xpaidia.com/)  
 [宝可梦全版本像素图素材](https://pokemondb.net/sprites)  
-
+[ASCII动画绘制软件（itch）](https://jp.itch.io/playscii)  
+[世界知名游戏Sprites资源合集](https://www.spriters-resource.com/)  
+[世界知名游戏地图参考](https://mapgenie.io/)  
+[游戏UI数据库](https://www.gameuidatabase.com/index.php)  
   
 ## 生活相关  
 [【日文】各样功能的100款免费软件](https://freesoft-100.com/)  
