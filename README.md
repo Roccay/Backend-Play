@@ -64,6 +64,7 @@
 [Springin Sound Stock](https://www.springin.org/sound-stock/)  
 [honohono可爱音乐网](https://conte-de-fees.com/)  
 [个人制作免费可商用音源(作者：乌鸦Producer）](https://www.bilibili.com/video/BV1uFcwe1EDV/)  
+[8bit音效在线制作 jsfxr](https://sfxr.me/)  
 
 ## 免费字体
 <sub>关键字：可商用，字体，免费</sub> 
