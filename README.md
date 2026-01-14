@@ -53,6 +53,8 @@
 [【itch】像素特效动画包（作者：BDragon1727）（付费免费皆有）](https://bdragon1727.itch.io/)  
 [复古RPG风格像素素材（作者：猫屋）](https://neko.moo.jp/BS/)  
 [【Booth】像素素材商店](https://pixelflag.booth.pm/)  
+[【Godot】3D像素shader（含代码）](https://godotshaders.com/shader/3d-pixel-art-outline-highlight-post-processing-shader/)  
+[【Godot】像素融化效果（含代码）](https://godotshaders.com/shader/pixel-melt/)  
 
 ## 音声资源
 <sub>关键字：音乐，音效，免费</sub> 
@@ -132,6 +134,7 @@
 [落日间：游戏类译文以及科普文章](http://xpaidia.com/)  
 [宝可梦全版本像素图素材](https://pokemondb.net/sprites)  
 [ASCII动画绘制软件（itch）](https://jp.itch.io/playscii)  
+[图片在线转换ASCII](https://www.lddgo.net/image/image-ascii-converter)  
 [世界知名游戏Sprites资源合集](https://www.spriters-resource.com/)  
 [世界知名游戏地图参考](https://mapgenie.io/)  
 [游戏UI数据库](https://www.gameuidatabase.com/index.php)  
@@ -144,7 +147,9 @@
 [【discord】独立游戏评测社群](https://grux.org/grux-sig-discord/)  
 [【论坛】贝克街推理学院](https://www.tuilixy.net/)  
 [【英文】民间整理全球发行商数据库](https://docs.google.com/spreadsheets/d/15AN1I1mB67AJkpMuUUfM5ZUALkQmrvrznnPYO5QbqD0/edit#gid=1783327951)  
+[【英文】全球独立游戏节日时间与价目信息](https://docs.google.com/spreadsheets/d/1NGseGNHv6Tth5e_yuRWzeVczQkzqXXGF4k16IsvyiTE/edit?gid=0#gid=0)  
 [【英文】全球游戏开发相关重要时间表（含Jam和展会）](https://gameconfguide.com/calendar/)  
+[【日文】日本游戏展 Tokyo Game Dungeon 官网（可报名）](https://tokyogamedungeon.com/)  
 
 ## 群主推荐
 做游戏一定要看的Youtuber频道：  
