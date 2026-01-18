@@ -4,7 +4,7 @@
 
 大家好，我是MINORI，「Backend：玩」群的群主。
   
-本QQ群的群号为：347684504，群友游戏库指路→[群户籍表](https://docs.qq.com/sheet/DTkVWQm5jU2hNV2RN?tab=BB08J2)  
+本QQ群的群号为：347684504，群友游戏库指路→[群户籍表](https://docs.qq.com/sheet/DTkVWQm5jU2hNV2RN?tab=BB08J2)  ，[玩群discord](https://discord.gg/jAp8Rhpg5s)。
   
 鉴于QQ群精华的收纳过于混乱，这个README诞生了（其实也只是把各种各样的链接按顺序摆放而已，请大家多多支持免费资源的分享者）。  
   
@@ -20,6 +20,7 @@
 [Unity官方教程 2D游戏制作全流程 Ruby's Advanture](https://learn.unity.com/project/ruby-s-adventure-2d-chu-xue-zhe)  
 [【官方】Berkeley College伯克利学院python入门级课程（英）](https://inst.eecs.berkeley.edu/~cs61a/fa20/)  
 [【在线】The Big Book of Small Python Projects（英）](https://inventwithpython.com/bigbookpython/)  
+[【中文】UnityHub/Unity整合网站（可避开unitycn）](https://www.nounitycn.top/)  
 
 ## 游戏设计相关  
 <sub>关键字：关卡设计，格斗游戏，横版，闯关，地图</sub> 
@@ -101,6 +102,7 @@
 [【bilibili文章】steam成就系统批量设置 踩坑笔记](https://www.bilibili.com/read/cv21509449/)  
 [【Steampeek】寻找相似类型的游戏](https://steampeek.hu/?appid=435120)  
 [【在线文章（英）】欧美地区乙女游戏喜好统计](https://tailortales.wordpress.com/2018/12/03/an-in-depth-look-at-what-otome-players-want/)  
+[【itch】itch页面排版全设计攻略](https://hedgiespresso.itch.io/itch-page-image-templates)  
 
 ## 活动咨询
 <sub>关键字：Game Jam， Ludum Dare，游戏制作，比赛</sub>  
@@ -108,7 +110,7 @@
 [Ludum Dare官方网站](https://ldjam.com/)  
 [itch全GameJam日程表](https://itch.io/jams)  
 [像素艺术节](https://pixelartpark.com/)  
-
+[日本游戏展 Tokyo Game Dungeon 官网](https://tokyogamedungeon.com/)  
 
 ## 知识参考
 <sub>关键字：术语， 参考，灵感，库</sub>  
@@ -119,6 +121,7 @@
 [双语词汇 学术名词资讯网](https://terms.naer.edu.tw/download/)  
 [法医病理学PDF文档](https://m.douban.com/book/review/14883186/)  
 [犯罪心理学（作者：罗大华）](https://www.ziwushuwu.com/xinlixueshuji/fanzui/)  
+[昆虫识别网站](https://www.quarryman.cn/insect)
 
 
 ### 民俗 | 神秘学 | 宗教 等
@@ -139,6 +142,7 @@
 [世界知名游戏地图参考](https://mapgenie.io/)  
 [游戏UI数据库](https://www.gameuidatabase.com/index.php)  
 [low-fi效果生成网站](https://www.tooooools.app/)  
+[按姿势找照片参考](x6ud.github.io/pose-search)  
   
 ## 生活相关  
 [【日文】各样功能的100款免费软件](https://freesoft-100.com/)  
@@ -149,7 +153,6 @@
 [【英文】民间整理全球发行商数据库](https://docs.google.com/spreadsheets/d/15AN1I1mB67AJkpMuUUfM5ZUALkQmrvrznnPYO5QbqD0/edit#gid=1783327951)  
 [【英文】全球独立游戏节日时间与价目信息](https://docs.google.com/spreadsheets/d/1NGseGNHv6Tth5e_yuRWzeVczQkzqXXGF4k16IsvyiTE/edit?gid=0#gid=0)  
 [【英文】全球游戏开发相关重要时间表（含Jam和展会）](https://gameconfguide.com/calendar/)  
-[【日文】日本游戏展 Tokyo Game Dungeon 官网（可报名）](https://tokyogamedungeon.com/)  
 
 ## 群主推荐
 做游戏一定要看的Youtuber频道：  
