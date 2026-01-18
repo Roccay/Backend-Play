@@ -142,7 +142,7 @@
 [世界知名游戏地图参考](https://mapgenie.io/)  
 [游戏UI数据库](https://www.gameuidatabase.com/index.php)  
 [low-fi效果生成网站](https://www.tooooools.app/)  
-[按姿势找照片参考](x6ud.github.io/pose-search)  
+[按姿势找照片参考](https://x6ud.github.io/pose-search)  
   
 ## 生活相关  
 [【日文】各样功能的100款免费软件](https://freesoft-100.com/)  
