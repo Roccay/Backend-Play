@@ -60,12 +60,12 @@
 ## 音声资源
 <sub>关键字：音乐，音效，免费</sub> 
   
-[GameSounds（需自行查询版权信息）](https://gamesounds.xyz/?dir=99Sounds)  
-[Zapsplat（免费可商用）](https://www.zapsplat.com/)  
-[FreeSound（免费可商用）](https://freesound.org/)  
-[魔王魂（免费可商用）](https://maou.audio/)  
-[Springin Sound Stock（免费可商用）](https://www.springin.org/sound-stock/)  
-[honohono可爱音乐网（免费可商用）](https://conte-de-fees.com/)  
+[（需自行查询版权信息）GameSounds](https://gamesounds.xyz/?dir=99Sounds)  
+[（免费可商用）Zapsplat](https://www.zapsplat.com/)  
+[（免费可商用）FreeSound](https://freesound.org/)  
+[（免费可商用）魔王魂](https://maou.audio/)  
+[（免费可商用）Springin Sound Stock](https://www.springin.org/sound-stock/)  
+[（免费可商用）honohono可爱音乐网](https://conte-de-fees.com/)  
 [个人制作免费可商用音源(作者：乌鸦Producer）](https://www.bilibili.com/video/BV1uFcwe1EDV/)  
 [8bit音效在线制作 jsfxr](https://sfxr.me/)  
 
